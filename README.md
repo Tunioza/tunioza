@@ -1,9 +1,28 @@
-### Hi, I'm Wiktor
+```python
+who = {
+    "name":      "Wiktor",
+    "location":  "Wrocław, PL",
+    "intro":     "Aspiring Data Analytist | Simulation Enthusiast | BI",
+    "studies": {
+        "BSc": "Business Engineering @ PWr  ·  2022–2026  ·  graduated",
+        "MSc.":  "Business Intelligence @ PWr  ·  2026–  ·  in progress",
+    },
+    "languages": ["Polish (native)", "English (C1)"],
+}
 
-**​Aspiring Data Scientist | Business Intelligence | Simulation Enthusiast**
+```
+**[ python ]**
 
-​💡 I'm currently pursuing a Master of Science in Business Intelligence.
+`Pandas` `NumPy` `Matplotlib` `Seaborn` `scikit-learn` `regex` `Plotly` `Jupyter` `NetworkX` `PyTorch` `NLTK` 
 
-​💻 I'm currently working on an [ABS project](https://github.com/Tunioza/corporate_innovation_diffusion_sim) that helps to understand the underlying mechanisms of innovation diffusion.
+**[ business intelligence ]**
 
-​🌱 I'm intensively learning about Machine Learning and Artificial Intelligence.
+`Power BI` `DAX` `Tableau` `Excel` `Power Query` `Power Pivot` `Rockwell Arena` `Netlogo` 
+
+**[ data science ]**
+
+`descriptive & predictive & prescriptive analytics` `EDA` `data cleaning` `data visualization` `RapidMiner` `ML`
+
+**[ miscellaneous ]**
+
+`VBA` `AMPL` `Rockwell Arena` `Netlogo` `GitHub` `Hopes & Prayers`
