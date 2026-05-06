@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Wiktor
 
 **​Aspiring Data Scientist | Business Intelligence | Simulation Enthusiast**
 
