@@ -4,7 +4,7 @@ who = {
     "location":  "Wrocław, PL",
     "intro":     "Aspiring Data Analyst | Simulation Enthusiast | BI",
     "studies": {
-        "BSc": "Business Engineering @ PWr  ·  2022–2026  ·  graduated",
+        "BSc":   "Business Engineering @ PWr  ·  2022–2026  ·  graduated",
         "MSc.":  "Business Intelligence @ PWr  ·  2026–  ·  in progress",
     },
     "languages": ["Polish (native)", "English (C1)"],
