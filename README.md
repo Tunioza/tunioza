@@ -2,7 +2,7 @@
 who = {
     "name":      "Wiktor",
     "location":  "Wrocław, PL",
-    "intro":     "Aspiring Data Analyst | Simulation Enthusiast | BI",
+    "intro":     "Consultant @ Sands Partners",
     "studies": {
         "BSc":   "Business Engineering @ PWr  ·  2022–2026  ·  graduated",
         "MSc.":  "Business Intelligence @ PWr  ·  2026–  ·  in progress",
