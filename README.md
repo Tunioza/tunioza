@@ -4,8 +4,9 @@ who = {
     "location":  "Wrocław, PL",
     "intro":     "Consultant @ Sands Partners",
     "studies": {
-        "BSc":   "Business Engineering @ PWr  ·  2022–2026  ·  graduated",
-        "MSc.":  "Business Intelligence @ PWr  ·  2026–  ·  in progress",
+        "MSc.":  "Business Intelligence @ PWr  ·  2026–      ·  in progress",
+        "BSc":   "Business Engineering  @ PWr  ·  2022–2026  ·  graduated",
+
     },
     "languages": ["Polish (native)", "English (C1)"],
     "interests": ["Physics", "Cooking", "Video Games"] 
